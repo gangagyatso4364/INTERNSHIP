@@ -6,6 +6,8 @@
 
 #TEAM NAME: APPLE
 
+#PLATFORM USED: JUPYTER NOTEBOOK/KAGGLE
+
 PROBLEM STATEMENT: Built a python application that analyses the sentiment behind the tone of the voice and predicts the
 Sentiment involved, you can use an open source dataset for the same.
 
